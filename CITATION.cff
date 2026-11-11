@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Undoing AI Agent Actions under Concurrent Human Edits: A Systematic Literature Review - SLR workbook"
+authors:
+  - family-names: Kavinda
+    given-names: "W. T. Y."
+    affiliation: "Faculty of Computing, Sabaragamuwa University of Sri Lanka"
+date-released: "2026-11-11"
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - systematic literature review
+  - LLM agents
+  - undo
+  - rollback
+  - Model Context Protocol
+  - concurrent editing
