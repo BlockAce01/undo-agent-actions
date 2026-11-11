@@ -9,6 +9,8 @@ authors:
 date-released: "2026-11-11"
 version: "1.0.0"
 license: CC-BY-4.0
+repository-code: "https://github.com/BlockAce01/undo-agent-actions"
+url: "https://github.com/BlockAce01/undo-agent-actions"
 keywords:
   - systematic literature review
   - LLM agents
